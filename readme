@@ -1,0 +1,1 @@
+This is a script that uses the Twitter API as well as the Tweepy library to follow the Final Fantasy XIV server status Twitter account and checks to see if an All Worlds Maintenance has been announced. If it has, the script will then send a text message to my phone using the Twilio API that notifies me of the announcement and includes the time it was announced.
